@@ -1,8 +1,8 @@
 # Title of your homepage
-title: ChangeLog of Brandname #(required)
+title: Akinari's Website #(required)
 
 # Website Description for search engines (optional)
-description: "Keep yourself up to date with our new product features"
+description: "Hi there, this is Akinari's website! Here you can upload your skins and share them with your friends!"
 
 # replace this word in navigation bar. Ex: Productnews, ChangeLog, Updates
 heading: Updates # (optional)
@@ -11,30 +11,30 @@ heading: Updates # (optional)
 logo: /assets/images/logo.png #(required)
 
 # Your Product's Website
-website: https://changelog.site # (required)
+website: https://akinariwebsite.glitch.me # (required)
 
 # the base hostname & protocol for your site, 
 # e.g. https://updates.changelog.site
 # Note Don't put trailing slash https://updates.changelog.site/
-url: "https://updates.changelog.site"  # (required)
+url: "https://akinariwebsite.glitch.me/changelog"  # (required)
 
 baseurl: '' # optional
 
 
 # Github username/repo where your code is hosted.
-github: changelogsite/changelog # (required)
+github: AkinariHex/changelog # (required)
 
 # remove this line if don't want to show Github Star Badge
-star-badge: true  #(optional)
+star-badge: false  #(optional)
 
 # remove this line if don't want to show Github Watch Badge
-watch-badge: true #(optional)
+watch-badge: false #(optional)
 
 # Show rss feed icon in menubar. To disable this comment below line by adding # as first character.
-rss-feed-icon: true #(optional)
+rss-feed-icon: false #(optional)
 
 # Global site tag (gtag.js) - Google Analytics e.g. UA-MYANALYTICS
-analytics:  #(recommended)
+analytics: UA-161536944-1 #(recommended)
 
 # https://changelog-site.disqus.com
 # disqus-identifier: changelog-site  # (optional)
