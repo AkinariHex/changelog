@@ -5,10 +5,10 @@ title: Akinari's Website #(required)
 description: "Hi there, this is Akinari's website! Here you can upload your skins and share them with your friends!"
 
 # replace this word in navigation bar. Ex: Productnews, ChangeLog, Updates
-heading: Updates # (optional)
+heading: Changelog # (optional)
 
 # absolute or relative path of logo
-logo: /assets/images/logo.png #(required)
+logo: /assets/images/logoFull.svg #(required)
 
 # Your Product's Website
 website: https://akinariwebsite.glitch.me # (required)
@@ -16,7 +16,7 @@ website: https://akinariwebsite.glitch.me # (required)
 # the base hostname & protocol for your site, 
 # e.g. https://updates.changelog.site
 # Note Don't put trailing slash https://updates.changelog.site/
-url: "https://akinariwebsite.glitch.me/changelog"  # (required)
+url: "https://akinariwebsite.glitch.me"  # (required)
 
 baseurl: '' # optional
 
@@ -40,7 +40,7 @@ analytics: UA-161536944-1 #(recommended)
 # disqus-identifier: changelog-site  # (optional)
 
 # Allow users to comment via facebook
-fb-comment: true
+fb-comment: false
 
 # Allow search engines to index your changelog website
 allow-searchengine: true #optional

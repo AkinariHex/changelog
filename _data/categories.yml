@@ -2,7 +2,7 @@
 - name: New
   color: blue
 
-- name: Bug
+- name: Bug Fix
   color: orange
 
 - name: Update
